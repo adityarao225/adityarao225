@@ -12,5 +12,5 @@ Here's a snapshot:
 ✉️ You can contact me at adityarao2110@gmail.com
 
 Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/adityarao225/)
-- [GitHub](https://github.com/adityarao225/)
+- [<i class="fab fa-linkedin"></i> LinkedIn](https://www.linkedin.com/in/adityarao225/)
+- [<i class="fab fa-github"></i> GitHub](https://github.com/adityarao225/)
