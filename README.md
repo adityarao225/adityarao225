@@ -1,6 +1,6 @@
 # Aditya Rao
 
-🚀 Hi there! I'm a recent graduate in Electrical Engineering from USC, with a keen focus on Machine Learning and Data Science. My passion? Enhancing the world with cutting-edge AI and immersive AR/VR experiences 🌟🤖.
+🚀 Hi there! I'm a graduate in Electrical Engineering from USC, with a keen focus on Machine Learning and Data Science. My passion? Enhancing the world with cutting-edge AI and immersive AR/VR experiences 🌟🤖.
 
 ### Here's a snapshot:
 - Innovating with Intelligence: Where engineering meets ingenuity, creating advanced, user-centric tech solutions.
